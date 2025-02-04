@@ -1,6 +1,6 @@
 # 🔐 Amigo Secreto 🤫
 
-Um sorteio online simples para organizar trocas de presentes entre amigos! Projeto ideal para iniciantes em programação web.
+Um sorteio online simples para organizar trocas de presentes entre amigos!
 ![Preview da aplicação](assets/amigo-secreto.png)
 **Neste passo, você insere o nome dos seus amigos e clica em acicionar.**
 ![Preview da aplicação](assets/inserindo_amigos.png)
