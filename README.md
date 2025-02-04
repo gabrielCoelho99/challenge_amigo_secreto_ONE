@@ -22,7 +22,7 @@ Um sorteio online simples para organizar trocas de presentes entre amigos! Proje
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/gabrielCoelho99/challenge_amigo_secreto_ONE.git
 2. **Abra o projeto**
 - Navegue até a pasta do projeto
 
